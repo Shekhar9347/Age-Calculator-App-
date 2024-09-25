@@ -1,0 +1,4 @@
+- 👋 Hi, I'm Chandra Shekhar
+- I'm interested in frontend development and software development
+- I'm currently learning Web development and java development
+- I'm looking to collaborate in IT department
